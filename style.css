@@ -18,7 +18,16 @@ body{
     display: flex;
    justify-content: space-between;
     text-align: center;
-   width: 50vw;
+   width: 100vw;
+   font-size: 3rem;
    color:rgb(50, 255, 105)
-
+}
+.cor{
+    color: rgb(0, 234, 255);
+}
+.amado{
+    background-image: ;
+    font-size: 10rem;
+    color:rgb(255, 0, 0)
+    
 }
